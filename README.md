@@ -16,6 +16,6 @@ Basic Concepts:
 * The only supported image format at this time is *gif*. This is a Tkinter constraint, and the Pillow module could be used to add support for more image formats if desired.
 * There are options to move through the questions, select a random question, change topics, and so on. See the *Help* button for more info on the UI.
 
-Here's a screenshot of a question that has been correctly answered, in Windows 10:
+Here's a Windows 10 screenshot of a question that has been correctly answered, showing use of the *answerimage* option:
 
 ![screenshot-Windows](screenshot-windows.png)

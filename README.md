@@ -1,3 +1,4 @@
+<properties LandingPageTags="Python,tkinter,GUI" />
 # quizme
 
 This program generates an interactive quiz based on questions and answers defined in a JSON document. I wrote it to learn about how to create a dynamic data-driven GUI with Tkinter. It's functional, but has some limitations as described below, mostly because I decided to see how much I could do with only Python and the standard library.

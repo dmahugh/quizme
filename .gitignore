@@ -1,0 +1,14 @@
+# don't include these files
+_find.drm
+_todo.txt
+
+# don't include these subfolders
+__pycache__/
+.cache/
+.vscode/
+backups/
+BLOG POST/
+data/
+documentation/
+images/
+miscellaneous/
